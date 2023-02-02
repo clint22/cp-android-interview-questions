@@ -44,3 +44,11 @@ I'm confident that this repository will be a valuable resource for you as you pr
 41. Memory leaks in Android ( Very important. Don't miss ): https://dropbox.tech/mobile/detecting-memory-leaks-in-android-applications#:~:text=Memory%20leaks%20occur%20when%20an,app%20performance%20and%20even%20crashes., https://www.geeksforgeeks.org/memory-leaks-in-android/, https://proandroiddev.com/everything-you-need-to-know-about-memory-leaks-in-android-d7a59faaf46a 
 42. Work manager: https://medium.com/androiddevelopers/introducing-workmanager-2083bcfc4712
 43. How View model retains data: https://developer.android.com/topic/libraries/architecture/viewmodel/viewmodel-savedstate
+44. Property initialization using "by lazy" vs "lateinit": https://stackoverflow.com/questions/36623177/property-initialization-using-by-lazy-vs-lateinit
+45. Difference between "const" and "val": https://stackoverflow.com/questions/37595936/what-is-the-difference-between-const-and-val
+46. When to use let, run, apply, also, and with: https://stackoverflow.com/questions/45977011/example-of-when-should-we-use-run-let-apply-also-and-with-on-kotlin
+47. Working with Kotlin sealed classes ( Here, you can understand why sealed classes are better than enums ): https://blog.mindorks.com/learn-kotlin-sealed-classes/
+48. S.O.L.I.D principles, explanation and usage in Android: https://medium.com/android-news/android-development-the-solid-principles-3b5779b105d2
+49. Data transfer from one destination to another: Not linking any articles. Answer can vary according to your usecases. You can use bundles, interface communication, Shared view model, seralizable and parcelable, event bus, etc for this purpose. Understanding different mechanisms are important here.
+50. Difference between serializable and parcelabled: https://stackoverflow.com/questions/3323074/android-difference-between-parcelable-and-serializable
+51. Higher order functions and lamdas in Kotlin: https://amitshekhar.me/blog/higher-order-functions-and-lambdas-in-kotlin
