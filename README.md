@@ -52,3 +52,5 @@ I'm confident that this repository will be a valuable resource for you as you pr
 49. Data transfer from one destination to another: Not linking any articles. Answer can vary according to your usecases. You can use bundles, interface communication, Shared view model, seralizable and parcelable, event bus, etc for this purpose. Understanding different mechanisms are important here.
 50. Difference between serializable and parcelabled: https://stackoverflow.com/questions/3323074/android-difference-between-parcelable-and-serializable
 51. Higher order functions and lamdas in Kotlin: https://amitshekhar.me/blog/higher-order-functions-and-lambdas-in-kotlin
+52. A safer way to collect flows from Android UIs: https://medium.com/androiddevelopers/a-safer-way-to-collect-flows-from-android-uis-23080b1f8bda
+53. How to combine coroutines with sealed classes: https://mobikul.com/coroutines-with-sealed-class/
