@@ -54,3 +54,14 @@ I'm confident that this repository will be a valuable resource for you as you pr
 51. Higher order functions and lamdas in Kotlin: https://amitshekhar.me/blog/higher-order-functions-and-lambdas-in-kotlin
 52. A safer way to collect flows from Android UIs: https://medium.com/androiddevelopers/a-safer-way-to-collect-flows-from-android-uis-23080b1f8bda
 53. How to combine coroutines with sealed classes: https://mobikul.com/coroutines-with-sealed-class/
+54. Difference between shared flow and state flow: https://stackoverflow.com/questions/66162586/the-main-difference-between-sharedflow-and-stateflow
+55. Understanding migrations with room: https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929
+56. Basics of Deep linking: https://www.geeksforgeeks.org/deep-linking-in-android-with-example/
+57. How to setup dynamic base URL in Retrofit: https://stackoverflow.com/questions/36498131/set-dynamic-base-url-using-retrofit-2-0-and-dagger-2
+58. Coroutine scope vs context: https://www.baeldung.com/kotlin/coroutines-scope-vs-context
+59. Global scope vs coroutine scope vs lifecycle scope: https://stackoverflow.com/questions/65008486/globalscope-vs-coroutinescope-vs-lifecyclescope
+60. Difference b/w object and companion object in a class: https://stackoverflow.com/questions/43814616/kotlin-difference-between-object-and-companion-object-in-a-class
+61. How to implement non-transitive dependencies: https://blog.blundellapps.co.uk/speed-up-your-build-non-transitive-r-files/
+62. Basics of Coroutines ( Coroutine scope, Job, coroutine context, job lifecycle, parent coroutine context explained ): https://medium.com/androiddevelopers/coroutines-first-things-first-e6187bf3bb21
+63. Cancellation in Coroutines: https://medium.com/androiddevelopers/cancellation-in-coroutines-aa6b90163629
+64. Exceptions in Coroutines: https://medium.com/androiddevelopers/exceptions-in-coroutines-ce8da1ec060c
