@@ -65,3 +65,7 @@ I'm confident that this repository will be a valuable resource for you as you pr
 62. Basics of Coroutines ( Coroutine scope, Job, coroutine context, job lifecycle, parent coroutine context explained ): https://medium.com/androiddevelopers/coroutines-first-things-first-e6187bf3bb21
 63. Cancellation in Coroutines: https://medium.com/androiddevelopers/cancellation-in-coroutines-aa6b90163629
 64. Exceptions in Coroutines: https://medium.com/androiddevelopers/exceptions-in-coroutines-ce8da1ec060c
+65. Understanding unit tests: https://proandroiddev.com/understanding-unit-tests-for-android-in-2021-71984f370240
+66. Example of explicit delegation in Kotlin: https://sachankapil.medium.com/the-art-of-delegation-image-loading-in-android-89254ed52911
+67. App modularization basics: https://proandroiddev.com/intro-to-app-modularization-42411e4c421e
+68. Android dynamic feature modules: https://medium.com/mindorks/dynamic-feature-modules-the-future-4bee124c0f1
