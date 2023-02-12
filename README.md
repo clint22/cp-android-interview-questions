@@ -69,3 +69,8 @@ I'm confident that this repository will be a valuable resource for you as you pr
 66. Example of explicit delegation in Kotlin: https://sachankapil.medium.com/the-art-of-delegation-image-loading-in-android-89254ed52911
 67. App modularization basics: https://proandroiddev.com/intro-to-app-modularization-42411e4c421e
 68. Android dynamic feature modules: https://medium.com/mindorks/dynamic-feature-modules-the-future-4bee124c0f1
+69. Things to note when building an SDK/library: https://crushingcode.nisrulz.com/posts/things-i-wish-i-knew-when-i-started-building-android-sdk-libraries/
+70. Builder pattern example: https://www.baeldung.com/kotlin/builder-pattern
+71. Abstract factory pattern example: https://www.baeldung.com/kotlin/abstract-factory-pattern
+72. Clean architecture on Android: https://www.toptal.com/android/benefits-of-clean-architecture-android
+73. Kotlin Coroutines vs RxKotlin: https://stackoverflow.com/questions/42066066/how-kotlin-coroutines-are-better-than-rxkotlin
