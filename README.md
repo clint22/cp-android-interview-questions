@@ -74,3 +74,4 @@ I'm confident that this repository will be a valuable resource for you as you pr
 71. Abstract factory pattern example: https://www.baeldung.com/kotlin/abstract-factory-pattern
 72. Clean architecture on Android: https://www.toptal.com/android/benefits-of-clean-architecture-android
 73. Kotlin Coroutines vs RxKotlin: https://stackoverflow.com/questions/42066066/how-kotlin-coroutines-are-better-than-rxkotlin
+74. Android Studio Profiler: https://medium.com/@umairkhalid786/the-easiest-way-to-detect-and-fix-memory-leaks-using-android-studio-profiler-tool-and-weakreference-cd7c212908a1
