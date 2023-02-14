@@ -77,3 +77,4 @@ I'm confident that this repository will be a valuable resource for you as you pr
 74. Android Studio Profiler: https://medium.com/@umairkhalid786/the-easiest-way-to-detect-and-fix-memory-leaks-using-android-studio-profiler-tool-and-weakreference-cd7c212908a1
 75. How to fetch OTP automatically: https://stackoverflow.com/questions/30862162/otp-token-should-be-automatically-read-from-the-message
 76. Mapping of data objects in Kotlin: https://www.baeldung.com/kotlin/data-objects
+77. Difference between init block and constructor in Kotlin: https://stackoverflow.com/questions/55356837/what-is-the-difference-between-init-block-and-constructor-in-kotlin
