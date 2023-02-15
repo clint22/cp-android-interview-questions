@@ -80,3 +80,4 @@ I'm confident that this repository will be a valuable resource for you as you pr
 77. Difference between init block and constructor in Kotlin: https://stackoverflow.com/questions/55356837/what-is-the-difference-between-init-block-and-constructor-in-kotlin
 78. Why do we set content view in onCreate() and not in onStart() or onResume(): https://stackoverflow.com/questions/33973399/why-do-we-set-content-view-in-oncreate-and-not-in-onstart-or-onresume
 79. How to exit an Android app programatically: https://stackoverflow.com/questions/17719634/how-to-exit-an-android-app-programmatically
+80. Types of file storage in Android: https://commonsware.com/Jetpack/pages/chap-files-001.html
