@@ -81,3 +81,5 @@ I'm confident that this repository will be a valuable resource for you as you pr
 78. Why do we set content view in onCreate() and not in onStart() or onResume(): https://stackoverflow.com/questions/33973399/why-do-we-set-content-view-in-oncreate-and-not-in-onstart-or-onresume
 79. How to exit an Android app programatically: https://stackoverflow.com/questions/17719634/how-to-exit-an-android-app-programmatically
 80. Types of file storage in Android: https://commonsware.com/Jetpack/pages/chap-files-001.html
+81. Synchronization, thread safety, and locking techniques in Java and Kotlin: https://proandroiddev.com/synchronization-and-thread-safety-techniques-in-java-and-kotlin-f63506370e6d
+82. Understanding reflection using Kotlin: https://levelup.gitconnected.com/understanding-reflection-using-kotlin-a5874bf6301
