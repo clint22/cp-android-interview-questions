@@ -91,3 +91,4 @@ I'm confident that this repository will be a valuable resource for you as you pr
 88. Notification channels: https://medium.com/exploring-android/exploring-android-o-notification-channels-94cd274f604c
 89. Why is it useful to have null values or null keys in hashmap: https://stackoverflow.com/questions/3622007/why-is-it-useful-to-have-null-values-or-null-keys-in-hash-maps
 90. Why do we set contentView() in onCreate() and not in onResume() or onStart(): https://stackoverflow.com/questions/33973399/why-do-we-set-content-view-in-oncreate-and-not-in-onstart-or-onresume
+91. Difference between view and view group: https://stackoverflow.com/questions/27352476/difference-between-view-and-viewgroup-in-android
