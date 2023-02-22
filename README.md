@@ -83,3 +83,11 @@ I'm confident that this repository will be a valuable resource for you as you pr
 80. Types of file storage in Android: https://commonsware.com/Jetpack/pages/chap-files-001.html
 81. Synchronization, thread safety, and locking techniques in Java and Kotlin: https://proandroiddev.com/synchronization-and-thread-safety-techniques-in-java-and-kotlin-f63506370e6d
 82. Understanding reflection using Kotlin: https://levelup.gitconnected.com/understanding-reflection-using-kotlin-a5874bf6301
+83. How recyclerview works internally: https://medium.com/1mgofficial/how-recyclerview-works-internally-71290de5d2c4
+84. 9-patch images: https://medium.com/flobiz-blog/create-resizable-bitmaps-9-patch-files-48c774db4526
+85. Understanding onTrimMemory(): https://stackoverflow.com/questions/19398827/understanding-ontrimmemory-int-level
+86. Difference between View.GONE() and View.VISIBLE: https://stackoverflow.com/questions/11556607/android-difference-between-view-gone-and-view-invisible
+87. Difference between onTouch() and onClick(): https://stackoverflow.com/questions/9122679/difference-between-ontouch-and-onclick-android
+88. Notification channels: https://medium.com/exploring-android/exploring-android-o-notification-channels-94cd274f604c
+89. Why is it useful to have null values or null keys in hashmap: https://stackoverflow.com/questions/3622007/why-is-it-useful-to-have-null-values-or-null-keys-in-hash-maps
+90. Why do we set contentView() in onCreate() and not in onResume() or onStart(): https://stackoverflow.com/questions/33973399/why-do-we-set-content-view-in-oncreate-and-not-in-onstart-or-onresume
