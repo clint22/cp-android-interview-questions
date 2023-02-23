@@ -92,3 +92,4 @@ I'm confident that this repository will be a valuable resource for you as you pr
 89. Why is it useful to have null values or null keys in hashmap: https://stackoverflow.com/questions/3622007/why-is-it-useful-to-have-null-values-or-null-keys-in-hash-maps
 90. Why do we set contentView() in onCreate() and not in onResume() or onStart(): https://stackoverflow.com/questions/33973399/why-do-we-set-content-view-in-oncreate-and-not-in-onstart-or-onresume
 91. Difference between view and view group: https://stackoverflow.com/questions/27352476/difference-between-view-and-viewgroup-in-android
+92. How view model survives configuration changes: https://arkadiuszchmura.com/posts/how-viewmodels-survive-configuration-changes/
