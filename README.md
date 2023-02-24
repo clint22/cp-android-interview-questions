@@ -93,3 +93,4 @@ I'm confident that this repository will be a valuable resource for you as you pr
 90. Why do we set contentView() in onCreate() and not in onResume() or onStart(): https://stackoverflow.com/questions/33973399/why-do-we-set-content-view-in-oncreate-and-not-in-onstart-or-onresume
 91. Difference between view and view group: https://stackoverflow.com/questions/27352476/difference-between-view-and-viewgroup-in-android
 92. How view model survives configuration changes: https://arkadiuszchmura.com/posts/how-viewmodels-survive-configuration-changes/
+93. Scoped storage: https://medium.com/microsoft-mobile-engineering/scoped-storage-in-android-10-android-11-28d58d989f3c
