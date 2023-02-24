@@ -94,3 +94,10 @@ I'm confident that this repository will be a valuable resource for you as you pr
 91. Difference between view and view group: https://stackoverflow.com/questions/27352476/difference-between-view-and-viewgroup-in-android
 92. How view model survives configuration changes: https://arkadiuszchmura.com/posts/how-viewmodels-survive-configuration-changes/
 93. Scoped storage: https://medium.com/microsoft-mobile-engineering/scoped-storage-in-android-10-android-11-28d58d989f3c
+94. Understanding and using services in Android: https://medium.com/@Codeible/understanding-and-using-services-in-android-background-foreground-services-8130f6bbf2a5
+95. Broadcast receivers explained: https://medium.com/android-news/broadcast-receivers-for-beginners-a9d7aa03fb76
+96. withContext() vs async-await(): https://stackoverflow.com/questions/50230466/kotlin-withcontext-vs-async-await
+97. Run two coroutines parallel inside another coroutine: https://stackoverflow.com/questions/57457079/run-two-kotlin-coroutines-inside-coroutine-in-parallel
+98. How to check if a lateinit variable has been initialised: https://stackoverflow.com/questions/37618738/how-to-check-if-a-lateinit-variable-has-been-initialized
+99. What is android:exported property in the manifest file: https://stackoverflow.com/questions/49471423/android-manifests-androidexported-false-prevents-app-from-running-on-device
+100. What are shared view models: https://blog.mindorks.com/shared-viewmodel-in-android-shared-between-fragments/
