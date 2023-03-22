@@ -102,3 +102,4 @@ I'm confident that this repository will be a valuable resource for you as you pr
 99. What is android:exported property in the manifest file: https://stackoverflow.com/questions/49471423/android-manifests-androidexported-false-prevents-app-from-running-on-device
 100. What are shared view models: https://blog.mindorks.com/shared-viewmodel-in-android-shared-between-fragments/
 101. Difference between 'is' and 'as' in Kotlin: https://stackoverflow.com/questions/47067302/what-is-difference-between-as-and-is-operator-in-kotlin
+102. Kotlin objects and singleton pattern: https://adventures92.medium.com/kotlin-objects-and-the-singleton-pattern-exploring-the-benefits-of-this-powerful-design-pattern-2acace56957f
